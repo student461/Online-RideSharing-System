@@ -1,0 +1,9 @@
+[submodule "OnlineRIdesharing_Server"]
+	path = OnlineRIdesharing_Server
+	url = https://github.com/student461/OnlineRIdesharing_Server.git
+[submodule "OnlineRIdesharing_Driver"]
+	path = OnlineRIdesharing_Driver
+	url = https://github.com/blackpearl0024/OnlineRIdesharing_Driver.git
+[submodule "OnlineRIdesharing_Rider"]
+	path = OnlineRIdesharing_Rider
+	url = https://github.com/blackpearl0024/OnlineRIdesharing_Rider.git
